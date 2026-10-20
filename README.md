@@ -51,12 +51,12 @@
 
   **Frontend & UI**
   <p>
-    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,vuetify,tailwind,html,css,vite&theme=dark" alt="Frontend Stack" />
+    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,vuetify,tailwind,html,css,vite,figma&theme=dark" alt="Frontend Stack" />
   </p>
   
   **Databases, DevOps & Infrastructure**
   <p>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,sqlserver,redis,docker,kubernetes,githubactions,nginx,linux,git&theme=dark" alt="DevOps and Databases" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,sqlserver,redis,docker,kubernetes,github,githubactions,gitlab,nginx,git,linux,arch,debian&theme=dark" alt="DevOps and Databases" />
   </p>
 
 </div>
