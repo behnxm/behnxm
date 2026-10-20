@@ -10,11 +10,20 @@
     <a href="https://behnamnouri.ir" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio" />
     </a>
-    <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
     <a href="mailto:contact@behnamnouri.ir">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <!-- Telegram -->
+    <a href="https://t.me/nouribehnam" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    <!-- Discord -->
+    <a href="https://discord.com/users/nouribehnam" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+    <!-- WhatsApp -->
+    <a href="https://wa.me/nouribehnam" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
   </p>
 
