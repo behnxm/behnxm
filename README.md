@@ -26,8 +26,8 @@
 
 - 🔭 **Currently working on:** Enterprise web portals, high-performance REST/GraphQL APIs, and modern frontend architectures.
 - 🏗️ **Architecture & Practices:** Clean Architecture, Domain-Driven Design (DDD), SOLID principles, and automated CI/CD pipelines.
-- 🌱 **Exploring:** Cloud-native microservices with **Go**, **Python** automation, and container orchestration.
-- 💬 **Ask me about:** `C#`, `.NET`, `Entity Framework Core`, `TypeScript`, `Vue 3`, `Nuxt`, and `Docker`.
+- 🌱 **Exploring:** Cloud-native microservices with **.NET** and container orchestration.
+- 💬 **Ask me about:** `C#`, `.NET Core`, `Web APIs`, `Entity Framework Core`, `Software Architectures`, `Design Patterns`, `TypeScript`, `Vue 3`, `Nuxt`, `Nuxt UI` and `Docker`.
 
 ---
 
@@ -44,10 +44,10 @@
   <p>
     <img src="https://skillicons.dev/icons?i=vue,nuxtjs,tailwind,html,css,vite&theme=dark" alt="Frontend Stack" />
   </p>
-
+  
   **Databases, DevOps & Infrastructure**
   <p>
-    <img src="https://skillicons.dev/icons?i=postgres,mssql,redis,docker,kubernetes,githubactions,linux,git&theme=dark" alt="DevOps and Databases" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,sqlserver,redis,docker,kubernetes,githubactions,nginx,linux,git&theme=dark" alt="DevOps and Databases" />
   </p>
 
 </div>
