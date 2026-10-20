@@ -42,7 +42,7 @@
 
   **Frontend & UI**
   <p>
-    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,tailwind,html,css,vite&theme=dark" alt="Frontend Stack" />
+    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,nuxtui,vuetify,tailwind,html,css,vite&theme=dark" alt="Frontend Stack" />
   </p>
   
   **Databases, DevOps & Infrastructure**
