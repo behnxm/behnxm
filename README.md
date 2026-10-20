@@ -51,7 +51,7 @@
 
   **Frontend & UI**
   <p>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vue,nuxtjs,nuxtui,vuetify,tailwind,html,css,vite&theme=dark" alt="Frontend Stack" />
+    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,vuetify,tailwind,html,css,vite&theme=dark" alt="Frontend Stack" />
   </p>
   
   **Databases, DevOps & Infrastructure**
