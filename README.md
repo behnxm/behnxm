@@ -7,13 +7,13 @@
 
   <!-- Contact & Social Badges (Shields.io) -->
   <p>
-    <a href="https://your-portfolio.com" target="_blank">
+    <a href="https://behnamnouri.ir" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio" />
     </a>
     <a href="https://linkedin.com/in/your-linkedin" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:contact@behnamnouri.ir">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
