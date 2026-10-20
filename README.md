@@ -1,16 +1,68 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**behnxm/behnxm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Headline & Positioning Statement -->
+  <h1>Hi there, I'm Behnam Nouri 👋</h1>
+  <h3>Full-Stack Software Engineer — .NET, TypeScript & Cloud-Native Architecture</h3>
+  <p>Building scalable backend systems with <b>C# / ASP.NET Core</b> and crafting fast, modern web interfaces with <b>TypeScript, Vue & Nuxt</b>.</p>
 
-Here are some ideas to get you started:
+  <!-- Contact & Social Badges (Shields.io) -->
+  <p>
+    <a href="https://your-portfolio.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### ⚡ About Me
+
+- 🔭 **Currently working on:** Enterprise web portals, high-performance REST/GraphQL APIs, and modern frontend architectures.
+- 🏗️ **Architecture & Practices:** Clean Architecture, Domain-Driven Design (DDD), SOLID principles, and automated CI/CD pipelines.
+- 🌱 **Exploring:** Cloud-native microservices with **Go**, **Python** automation, and container orchestration.
+- 💬 **Ask me about:** `C#`, `.NET`, `Entity Framework Core`, `TypeScript`, `Vue 3`, `Nuxt`, and `Docker`.
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+<div align="center">
+
+  **Backend & Languages**
+  <p>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,py,go&theme=dark" alt="Backend and Languages" />
+  </p>
+
+  **Frontend & UI**
+  <p>
+    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,tailwind,html,css,vite&theme=dark" alt="Frontend Stack" />
+  </p>
+
+  **Databases, DevOps & Infrastructure**
+  <p>
+    <img src="https://skillicons.dev/icons?i=postgres,mssql,redis,docker,kubernetes,githubactions,linux,git&theme=dark" alt="DevOps and Databases" />
+  </p>
+
+</div>
+
+---
+
+### 📊 GitHub Activity & Telemetry
+
+<div align="center">
+  <!-- Main Stats Card & Streak Stats side-by-side -->
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=behnxm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="175em" src="https://streak-stats.demolab.com?user=behnxm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <!-- Compact Top Languages Card + Activity Graph -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=behnxm&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+</div>
