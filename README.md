@@ -31,11 +31,11 @@
 
 ---
 
-### ⚡ About Me
+### 🙋🏻 About Me
 
-- 🔭 **Currently working on:** Enterprise web portals, high-performance REST/GraphQL APIs, and modern frontend architectures.
+- 🔭 **Currently working on:** Enterprise web portals, high-performance REST APIs, backend architectures, and modern frontend application.
 - 🏗️ **Architecture & Practices:** Clean Architecture, Domain-Driven Design (DDD), SOLID principles, and automated CI/CD pipelines.
-- 🌱 **Exploring:** Cloud-native microservices with **.NET** and container orchestration.
+- 🌱 **Exploring:** Cloud-native microservices with **.NET**, container orchestration (Kubernetes) and backend architectures.
 - 💬 **Ask me about:** `C#`, `.NET Core`, `Web APIs`, `Entity Framework Core`, `Software Architectures`, `Design Patterns`, `TypeScript`, `Vue 3`, `Nuxt`, `Nuxt UI` and `Docker`.
 
 ---
