@@ -1,8 +1,8 @@
 <div align="center">
 
   <!-- Headline & Positioning Statement -->
-  <h1>Hi there, I'm Behnam Nouri 👋</h1>
-  <h3>Full-Stack Software Engineer — .NET, TypeScript & Cloud-Native Architecture</h3>
+  <h1>Hi there, I'm Behnam Nouri 👋🏻</h1>
+  <h3>Full-Stack Web Developer and Software Engineer - .NET, TypeScript & Cloud-Native Architecture</h3>
   <p>Building scalable backend systems with <b>C# / ASP.NET Core</b> and crafting fast, modern web interfaces with <b>TypeScript, Vue & Nuxt</b>.</p>
 
   <!-- Contact & Social Badges (Shields.io) -->
